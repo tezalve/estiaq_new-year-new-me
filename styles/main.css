@@ -1,4 +1,7 @@
 /* styling header */
+*{
+    font-family: sans-serif;
+}
 
 .header{
     background-image: url('../images/banner/banner3.png');
@@ -73,3 +76,31 @@
     padding-bottom: 10px;
 }
 
+/* styling plans section */
+
+.ulist2{
+    display: flex;
+    list-style: none;
+}
+
+.large2{
+    font-size: 40px;
+    padding-left: 800px;
+}
+
+.contain6{
+    padding: 50px 120px 120px 0px;
+    text-align: center;
+}
+
+.contain5{
+    padding-left: 250px;
+}
+
+.medium2{
+    font-size: 35px;
+}
+
+.para3{
+    font-size: 25px;
+}
