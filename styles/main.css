@@ -1,0 +1,75 @@
+/* styling header */
+
+.header{
+    background-image: url('../images/banner/banner3.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.large{
+    font-size: 60px;
+    color: white;
+}
+
+.contain{
+    text-align: right;
+    padding: 170px 450px 200px 1000px;
+}
+
+.btn{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 15px;
+    border: 0;
+    padding: 5px 10px;
+    height: 45px;
+    border-radius: 5px;
+    background: #0a9cfd;
+}
+
+.btn:hover {background-color: #0075fa}
+
+.btn:active {
+  background-color: #0075fa;
+  transform: translateY(4px);
+}
+
+.para{
+    padding-bottom: 30px;
+    color: white;
+}
+
+/* styling failures section */
+
+.ulist{
+    list-style-image: url('../images/icons/check-solid.svg')
+}
+
+.medium{
+    font-size: 50px;
+    padding-bottom: 5px;
+}
+
+.contain2{
+    display: flex;
+    padding: 100px 100px 100px 300px;
+}
+
+.img{
+    width: fit-content;
+    height: fit-content;
+}
+
+.contain3{
+    padding: 100px 500px 100px 50px;
+    text-align: left;
+}
+
+.para2{
+    padding-bottom: 10px;
+}
+
+.list{
+    padding-bottom: 10px;
+}
+
