@@ -17,7 +17,7 @@
 
 .contain{
     text-align: right;
-    padding: 170px 450px 200px 1000px;
+    padding: 170px 250px 200px 1100px;
 }
 
 .btn{
@@ -129,3 +129,40 @@
 .contain8>button{
     margin-left: 250px;
 }
+
+/* footer styles */
+
+footer{
+    display: flex;
+    align-items: center;
+    color: white;
+    background-color: rgb(26, 26, 26);
+    margin: 100px 150px 0px 140px;
+}
+
+.lfooter, .rfooter{
+    margin: 100px 100px 100px 100px;
+    padding: 40px 40px 40px 40px;
+}
+
+.ulist3{
+    display: flex;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.list3{
+    padding-left: 10px;
+}
+
+input[type=text]{
+    background-color: rgb(26, 26, 26);
+    /* border: none; */
+    border: 1px solid rgb(245, 245, 245);
+    border-radius: 4px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    padding: 10px 0px;
+}
+
