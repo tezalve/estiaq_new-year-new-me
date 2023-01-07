@@ -46,7 +46,7 @@
 /* styling failures section */
 
 .ulist{
-    list-style-image: url('../images/icons/check-solid.svg')
+    list-style-image: url('../images/icons/skull-crossbones-solidd.svg')
 }
 
 .medium{
@@ -56,7 +56,7 @@
 
 .contain2{
     display: flex;
-    padding: 100px 100px 100px 250px;
+    padding: 20px 100px 100px 250px;
 }
 
 .img{
@@ -166,3 +166,13 @@ input[type=text]{
     padding: 10px 0px;
 }
 
+/* style success section */
+
+.contain9{
+    display: flex;
+    margin: 80px 300px 80px 250px;
+}
+
+.ulists{
+    list-style-image: url('../images/icons/check-double-solidd.svg');
+}
