@@ -7,6 +7,7 @@
     background-image: url('../images/banner/banner3.png');
     background-repeat: no-repeat;
     background-size: auto;
+    background-position: center;
 }
 
 .large{
@@ -55,7 +56,7 @@
 
 .contain2{
     display: flex;
-    padding: 100px 100px 100px 300px;
+    padding: 100px 100px 100px 250px;
 }
 
 .img{
@@ -64,7 +65,7 @@
 }
 
 .contain3{
-    padding: 100px 500px 100px 50px;
+    padding: 100px 100px 100px 100px;
     text-align: left;
 }
 
@@ -85,7 +86,7 @@
 
 .large2{
     font-size: 40px;
-    padding-left: 800px;
+    text-align: center;
 }
 
 .contain6{
@@ -94,7 +95,7 @@
 }
 
 .contain5{
-    padding-left: 250px;
+    padding-left: 300px;
 }
 
 .medium2{
@@ -103,4 +104,28 @@
 
 .para3{
     font-size: 25px;
+}
+
+/* styling gradient */
+
+.contain7{
+    background-image: url('../images/gradient1.png'), url('../images/watch.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center center;
+    padding-left: 100px;
+}
+
+.contain8{
+    padding: 20px 40px 30px 90px;
+}
+
+.large3{
+    font-size: 50px;
+    color: white;
+    padding-left: 250px;
+}
+
+.contain8>button{
+    margin-left: 250px;
 }
